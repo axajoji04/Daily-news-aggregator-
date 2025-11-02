@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Data and logs
+data/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
