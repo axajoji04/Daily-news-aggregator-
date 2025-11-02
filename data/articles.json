@@ -1,0 +1,286 @@
+{
+  "date": "2025-11-03 02:20",
+  "articles": [
+    {
+      "title": "Sam Altman says ‘enough’ to questions about OpenAI’s revenue",
+      "link": "https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/",
+      "summary": "OpenAI CEO Sam Altman recently said that the company is doing “well more” than $13 billion in annual revenue — and he sounded a little testy when pressed on how it will pay for its massive spending commitments.",
+      "published": "2025-11-02 17:15",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "Meta has an AI product problem",
+      "link": "https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/",
+      "summary": "Meta's AI spending is starting to make Wall Street nervous.",
+      "published": "2025-11-02 16:00",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "Rising energy prices put AI and data centers in the crosshairs",
+      "link": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
+      "summary": "A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?",
+      "published": "2025-11-01 16:15",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams",
+      "link": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
+      "summary": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.",
+      "published": "2025-11-01 15:00",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo",
+      "link": "https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/",
+      "summary": "CoreWeave's failed buy of Core Scientific is another sign of an AI bubble. But it's still shopping.",
+      "published": "2025-10-31 18:53",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "link": "https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "published": "2025-10-31 17:36",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly",
+      "link": "https://techcrunch.com/podcast/equity-live-from-300m-seed-rounds-to-data-center-builds-ai-is-feeling-bubbly/",
+      "summary": "The Equity crew was live at TechCrunch Disrupt 2025! Hosts Kirsten Korosec, Max Zeff, and Anthony Ha took over the Builders Stage on Monday morning to kick off the event with the question everyone’s asking: are we in an AI bubble?  Between valuations that have tripled in months, $300M seed rounds, a",
+      "published": "2025-10-31 17:04",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "AWS exceeds Wall Street’s expectations as demand for cloud infra remains high",
+      "link": "https://techcrunch.com/2025/10/31/aws-exceeds-wall-streets-expectations-as-demand-for-cloud-infra-remains-high/",
+      "summary": "AWS continues to see strong demand as companies gobble up its cloud infrastructure services in the age of AI.",
+      "published": "2025-10-31 16:59",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "Perplexity strikes multi-year licensing deal with Getty Images",
+      "link": "https://techcrunch.com/2025/10/31/perplexity-strikes-multi-year-licensing-deal-with-getty-images/",
+      "summary": "Perplexity’s agreement with Getty appears to legitimize some of the startup’s previous use of Getty’s stock photos. Perplexity came under fire last year for a series of plagiarism accusations from several news organizations.",
+      "published": "2025-10-31 15:46",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "Tim Cook says Apple is open to M&A on the AI front",
+      "link": "https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front/",
+      "summary": "Apple CEO Tim Cook noted in the company's Q4 2025 earnings call that Apple was preparing to announce more AI partnerships like the one it has with OpenAI to integrate ChatGPT into Siri and Apple Intelligence.",
+      "published": "2025-10-31 15:17",
+      "source": "techcrunch_ai"
+    },
+    {
+      "title": "The brain power behind sustainable AI",
+      "link": "https://news.mit.edu/2025/brain-power-behind-sustainable-ai-miranda-schwacke-1024",
+      "summary": "PhD student Miranda Schwacke explores how computing inspired by the human brain can fuel energy-efficient artificial intelligence.",
+      "published": "2025-10-24 04:00",
+      "source": "mit_news"
+    },
+    {
+      "title": "Five with MIT ties elected to National Academy of Medicine for 2025",
+      "link": "https://news.mit.edu/2025/mit-affiliates-elected-national-academy-medicine-1022",
+      "summary": "Professors Facundo Batista and Dina Katabi, along with three additional MIT alumni, are honored for their outstanding professional achievement and commitment to service.",
+      "published": "2025-10-22 19:25",
+      "source": "mit_news"
+    },
+    {
+      "title": "Creating AI that matters",
+      "link": "https://news.mit.edu/2025/creating-ai-that-matters-1021",
+      "summary": "How the MIT-IBM Watson AI Lab is shaping AI-sociotechnical systems for the future.",
+      "published": "2025-10-21 20:10",
+      "source": "mit_news"
+    },
+    {
+      "title": "New software designs eco-friendly clothing that can reassemble into new items",
+      "link": "https://news.mit.edu/2025/refashion-software-designs-eco-friendly-clothing-that-can-reassemble-new-items-1017",
+      "summary": "To reduce waste, the Refashion program helps users create outlines for adaptable clothing, such as pants that can be reconfigured into a dress. Each component of these pieces can be replaced, rearranged, or restyled.",
+      "published": "2025-10-17 18:30",
+      "source": "mit_news"
+    },
+    {
+      "title": "Method teaches generative AI models to locate personalized objects",
+      "link": "https://news.mit.edu/2025/method-teaches-generative-ai-models-locate-personalized-objects-1016",
+      "summary": "After being trained with this technique, vision-language models can better identify a unique item in a new scene.",
+      "published": "2025-10-16 04:00",
+      "source": "mit_news"
+    },
+    {
+      "title": "Remembering Professor Emerita Jeanne Shapiro  Bamberger, a pioneer in music education",
+      "link": "https://news.mit.edu/2025/remembering-professor-emerita-jeanne-shapiro-bamberger-1015",
+      "summary": "The former department chair was an early innovator in the use of artificial intelligence to both study and influence how children learn music.",
+      "published": "2025-10-15 17:25",
+      "source": "mit_news"
+    },
+    {
+      "title": "Blending neuroscience, AI, and music to create mental health innovations",
+      "link": "https://news.mit.edu/2025/kimaya-lecamwasam-blending-neuroscience-ai-music-to-create-mental-health-innovations-1015",
+      "summary": "Media Lab PhD student Kimaya Lecamwasam researches how music can shape well-being.",
+      "published": "2025-10-15 17:20",
+      "source": "mit_news"
+    },
+    {
+      "title": "Optimizing food subsidies: Applying digital platforms to maximize nutrition",
+      "link": "https://news.mit.edu/2025/optimizing-food-subsidies-applying-digital-platforms-maximize-nutrition-1014",
+      "summary": "An algorithm can change the face of food assistance policy in the Global South, says MIT assistant professor and J-WAFS researcher Ali Aouad.",
+      "published": "2025-10-14 19:40",
+      "source": "mit_news"
+    },
+    {
+      "title": "Checking the quality of materials just got easier with a new AI tool",
+      "link": "https://news.mit.edu/2025/checking-quality-materials-just-got-easier-new-ai-tool-1014",
+      "summary": "Acting as a “virtual spectrometer,” SpectroGen generates spectroscopic data in any modality, such as X-ray or infrared, to quickly assess a material’s quality.",
+      "published": "2025-10-14 15:00",
+      "source": "mit_news"
+    },
+    {
+      "title": "Helping scientists run complex data analyses without writing code",
+      "link": "https://news.mit.edu/2025/helping-scientists-run-complex-data-analyses-without-writing-code-1014",
+      "summary": "Co-founded by an MIT alumnus, Watershed Bio offers researchers who aren’t software engineers a way to run large-scale analyses to accelerate biology.",
+      "published": "2025-10-14 14:15",
+      "source": "mit_news"
+    },
+    {
+      "title": "Moving past speculation: How deterministic CPUs deliver predictable AI performance",
+      "link": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai",
+      "summary": "For more than three decades, modern CPUs have relied on speculative execution to keep pipelines full. When it emerged in the 1990s, speculation was hailed as a breakthrough — just as pipelining and superscalar execution had been in earlier decades. Each marked a generational leap in microarchitectur",
+      "published": "2025-11-02 05:00",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "Large reasoning models almost certainly can think",
+      "link": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think",
+      "summary": "Recently, there has been a lot of hullabaloo about the idea that large reasoning models (LRM) are unable to think. This is mostly due to a research article published by Apple, \"The Illusion of Thinking\" Apple argues that LRMs must not be able to think; instead, they just perform pattern-matching. Th",
+      "published": "2025-11-01 05:00",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "Inside Celosphere 2025: Why there’s no ‘enterprise AI’ without process intelligence",
+      "link": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process",
+      "summary": "Presented by CelonisAI adoption is accelerating, but results often lag expectations. And enterprise leaders are under pressure to prove measurable ROI from the AI solutions — especially as the use of autonomous agents rises and global tariffs disrupt supply chains.The issue isn’t the AI itself, says",
+      "published": "2025-10-31 04:00",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "Why IT leaders should pay attention to Canva’s ‘imagination era’ strategy",
+      "link": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy",
+      "summary": "The rise of AI marks a critical shift away from decades defined by information-chasing and a push for more and more compute power. Canva co-founder and CPO Cameron Adams refers to this dawning time as the “imagination era.” Meaning: Individuals and enterprises must be able to turn creativity into ac",
+      "published": "2025-10-30 03:00",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "Meta researchers open the LLM black box to repair flawed AI reasoning",
+      "link": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning",
+      "summary": "Researchers at Meta FAIR and the University of Edinburgh have developed a new technique that can predict the correctness of a large language model's (LLM) reasoning and even intervene to fix its mistakes. Called Circuit-based Reasoning Verification (CRV), the method looks inside an LLM to monitor it",
+      "published": "2025-10-30 00:00",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "Vibe coding platform Cursor releases first in-house LLM, Composer, promising 4X speed boost",
+      "link": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising",
+      "summary": "The vibe coding tool Cursor, from startup Anysphere, has introduced Composer, its first in-house, proprietary coding large language model (LLM) as part of its Cursor 2.0 platform update. Composer is designed to execute coding tasks quickly and accurately in production-scale environments, representin",
+      "published": "2025-10-29 19:28",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "Anthropic scientists hacked Claude’s brain — and it noticed. Here’s why that’s huge",
+      "link": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats",
+      "summary": "When researchers at Anthropic injected the concept of \"betrayal\" into their Claude AI model's neural networks and asked if it noticed anything unusual, the system paused before responding: \"I'm experiencing something that feels like an intrusive thought about 'betrayal'.\"The exchange, detailed in ne",
+      "published": "2025-10-29 17:00",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says",
+      "link": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots",
+      "summary": "The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prompting, had both turned to ChatGPT to plan their day's activities in the French capital. The AI recommended specific tour companies, restaurants, and a",
+      "published": "2025-10-29 07:00",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "Agentic AI is all about the context — engineering, that is",
+      "link": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is",
+      "summary": "Presented by ElasticAs organizations scramble to enact agentic AI solutions, accessing proprietary data from all the nooks and crannies will be keyBy now, most organizations have heard of agentic AI, which are systems that “think” by autonomously gathering tools, data and other sources of informatio",
+      "published": "2025-10-29 04:00",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "From static classifiers to reasoning engines: OpenAI’s new model rethinks content moderation",
+      "link": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks",
+      "summary": "Enterprises, eager to ensure any AI models they use adhere to safety and safe-use policies, fine-tune LLMs so they do not respond to unwanted queries. However, much of the safeguarding and red teaming happens before deployment, “baking in” policies before users fully test the models’ capabilities in",
+      "published": "2025-10-29 04:00",
+      "source": "venturebeat_ai"
+    },
+    {
+      "title": "Adobe’s experimental AI tool can edit entire videos using one frame",
+      "link": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects",
+      "summary": "Adobe demonstrated some of the experimental AI tools it’s working on at its Max conference that provide new ways to intuitively edit photos, videos, and audio. These experiments, called “sneaks,” include tools that instantly apply any changes you make to one frame across an entire video, easily mani",
+      "published": "2025-10-31 17:31",
+      "source": "theverge_ai"
+    },
+    {
+      "title": "Perplexity’s new AI tool aims to simplify patent research",
+      "link": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool",
+      "summary": "Patents are notoriously difficult to search for, but Perplexity has launched an AI-powered tool that’s supposed to make the process a little easier. Its new patent research agent allows you to search for patents using natural language, rather than a string of keywords. As an example, Perplexity says",
+      "published": "2025-10-31 13:23",
+      "source": "theverge_ai"
+    },
+    {
+      "title": "God will be declared by a panel of experts",
+      "link": "https://www.theverge.com/podcast/811156/openai-agi-microsoft-vergecast",
+      "summary": "What is AGI? We know it stands for Artificial General Intelligence. That's a good start. But what does AGI mean, really? And how do we know when we've achieved it? For that matter, who decides we've achieved it? Does the AGI decide? This week, as OpenAI completed a long restructuring process that se",
+      "published": "2025-10-31 12:47",
+      "source": "theverge_ai"
+    },
+    {
+      "title": "Sora now lets you pay extra to make more AI videos",
+      "link": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens",
+      "summary": "Keep burning through your video generation allowance on Sora? No problem, OpenAI now lets you buy extra credits to make even more AI videos. That’s good, because the company says it expects to reduce free allowances at some point in the future. Bill Peebles, who leads the Sora team at OpenAI, said t",
+      "published": "2025-10-31 11:16",
+      "source": "theverge_ai"
+    },
+    {
+      "title": "Microsoft&#8217;s agent platform play",
+      "link": "https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh",
+      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. To understand how Microsoft sees its role in the AI race, look at what was announced at the company's GitHub Universe developer conference on Tuesday in Sa",
+      "published": "2025-10-31 00:30",
+      "source": "theverge_ai"
+    },
+    {
+      "title": "Canva&#8217;s new &#8216;Creative Operating System&#8217; is actually a marketing workspace",
+      "link": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch",
+      "summary": "Canva is introducing new digital marketing and video-editing tools, built around what the company is calling a “world-first” design-focused AI model. These launches are part of an overhaul to the design platforms Visual Suite workplace products, which Canva describes as a “Creative Operating System”",
+      "published": "2025-10-30 17:59",
+      "source": "theverge_ai"
+    },
+    {
+      "title": "Pinterest&#8217;s new AI shopping assistant helps you pick a fit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready",
+      "summary": "Move over Andy Sachs, Pinterest is launching an AI-enabled shopping assistant that aims to suggest your next look. Beginning on Thursday, and over the coming weeks and months, Pinterest users will be able to talk to the visual platform about what they’re shopping or searching for. The Pinterest Assi",
+      "published": "2025-10-30 16:00",
+      "source": "theverge_ai"
+    },
+    {
+      "title": "AI browsers are a cybersecurity time bomb",
+      "link": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems",
+      "summary": "Web browsers are getting awfully chatty. They got even chattier last week after OpenAI and Microsoft kicked the AI browser race into high gear with ChatGPT Atlas and a \"Copilot Mode\" for Edge. They can answer questions, summarize pages, and even take actions on your behalf. The experience is far fro",
+      "published": "2025-10-30 15:53",
+      "source": "theverge_ai"
+    },
+    {
+      "title": "President Trump’s ballroom design might not be AI — but it’s still a mess",
+      "link": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai",
+      "summary": "When President Donald Trump revealed the physical model of the sprawling ballroom that will replace the now-demolished East Wing of the White House, something just seemed off. The model, small enough to fit on a table, is supposed to be a representation of the design that the Trump administration ha",
+      "published": "2025-10-30 15:37",
+      "source": "theverge_ai"
+    },
+    {
+      "title": "Universal partners with AI startup Udio after settling copyright suit",
+      "link": "https://www.theverge.com/news/809882/universal-music-udio-settlement",
+      "summary": "Universal Music Group says it has made “industry-first strategic agreements” to “settle copyright infringement litigation” with AI startup Udio and license music for a new AI-powered music platform. The move is one of several anticipated licensing deals expected to land in the next few weeks as the ",
+      "published": "2025-10-30 13:02",
+      "source": "theverge_ai"
+    }
+  ],
+  "count": 40
+}
